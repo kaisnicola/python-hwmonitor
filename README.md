@@ -1,0 +1,2 @@
+# python-hwmonitor
+Python Hardwaremonitor
